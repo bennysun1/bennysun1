@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am a student studying Data Science at St. Lawrence University in Canton, NY. 
-
+I am a student studying Data Science at St. Lawrence University in Canton, NY. <br>
 I will be pursuing a master's degree in Data Science as a member of the 2025 cohort at the University of San Francisco, 
 
 I currently work for an 🏎️ automotive refinance firm 🏎️ where I generate business insights by creating 
