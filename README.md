@@ -2,7 +2,7 @@
 
 I am a student studying Data Science at St. Lawrence University in Canton, NY. 
 
-I currently work for an 🏎️ automotive refinance firm 🏎️ where generate business insights by creating 
+I currently work for an 🏎️ automotive refinance firm 🏎️ where I generate business insights by creating 
 machine learning models and shiny applications for data visualization.
 <!--
 **bennysun1/bennysun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
