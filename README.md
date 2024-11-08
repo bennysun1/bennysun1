@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I am a student pursuing my master's degree in Data Science at the University of San Francisco.
-🏢 Currently working at a property technology company where I create machine learning models for real estate insights.
+
+🏢 I Currently working at a property technology company where I create machine learning models for real estate insights.
 <br />
 What I Do:
 
