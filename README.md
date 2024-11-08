@@ -4,8 +4,8 @@ I am a student pursuing my master's degree in Data Science at the University of 
 
 🏢 I currently work at a property technology company where I create machine learning models for real estate insights.
 <br />
+<br />
 What I Do:
-
 📊 Build data pipelines to collect market data, macroeconomic indicators, and geographic information
 <br />
 🤖 Develop ML models to predict market trends and property valuations
