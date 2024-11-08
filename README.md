@@ -6,6 +6,7 @@ I am a student pursuing my master's degree in Data Science at the University of 
 <br />
 <br />
 What I Do:
+<br />
 📊 Build data pipelines to collect market data, macroeconomic indicators, and geographic information
 <br />
 🤖 Develop ML models to predict market trends and property valuations
