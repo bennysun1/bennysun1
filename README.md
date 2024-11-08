@@ -15,15 +15,6 @@ What I Do:
 📈 Analyze relationships between property values and economic indicators
 <br />
 
-Tech Stack
-
-Python, SQL, R
-<br />
-Machine Learning & Data Analysis: Pandas, Scikit-learn
-<br />
-Web Scraping: BeautifulSoup, Selenium, Botasaurus
-<br />
-Visualization: Matplotlib, Plotnine, Seaborn
 <!--
 **bennysun1/bennysun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
