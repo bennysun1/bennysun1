@@ -1,10 +1,21 @@
 ### Hi there 👋
 
-I am a student studying Data Science at St. Lawrence University in Canton, NY. <br>
-I will be pursuing a master's degree in Data Science as a member of the 2025 cohort at the University of San Francisco.
+I am a student pursuing my master's degree in Data Science at the University of San Francisco.
+🏢 Currently working at a property technology company where I create machine learning models for real estate insights.
+<br />
+What I Do:
 
-I currently work for an 🏎️ automotive refinance firm 🏎️ where I generate business insights by creating 
-machine learning models and shiny applications for data visualization.
+📊 Build data pipelines to collect market data, macroeconomic indicators, and geographic information
+🤖 Develop ML models to predict market trends and property valuations
+🗺️ Create geographic visualizations for real estate market analysis
+📈 Analyze relationships between property values and economic indicators
+
+Tech Stack
+
+Python, SQL, R
+Machine Learning & Data Analysis: Pandas, Scikit-learn
+Web Scraping: BeautifulSoup, Selenium, Botasaurus
+Visualization: Matplotlib, Plotnine, Seaborn
 <!--
 **bennysun1/bennysun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
